@@ -1,11 +1,15 @@
 img {
-    width: 440px;
+    width: 900px;
 }
 body {
     text-align: left;
     font-family: "New Times Roman";
     color: rgb(23, 57, 210);;
 }
+h1 {font-size: xx-large;
+    text-align: center;
+    text-shadow: 20px 20px rgb(119, 107, 255);;
+}
 h2 {
     font-size: large;
-}
+}  
